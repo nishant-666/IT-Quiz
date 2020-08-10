@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import './base/settings';
+@import './base/base';
+@import './components/home';
+@import './components/quiz-instructions';
+@import './components/play';
+@import './components/quiz-summary';
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@600&display=swap');
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: #090C08;
+}

@@ -1,0 +1,208 @@
+[
+    {
+        "question": "In the context of C data types, which of the followings is correct?",
+        "optionA": "Unsigned long long int is a valid data type",
+        "optionB": "Long long double is a valid data type",
+        "optionC": "Unsigned long double is a valid data type",
+        "optionD": "All of them",
+        "answer": "Unsigned long long int is a valid data type"
+    },
+    {
+        "question": "What is the use of ESLint?",
+        "optionA": "Used to make code more consistent and avoiding bugs",
+        "optionB": "A framework between Express and Node",
+        "optionC": "A framework between React and Node",
+        "optionD": "Used to manage Yarn packages",
+        "answer": "Used to make code more consistent and avoiding bugs"
+    },
+    {
+        "question": "Which of the following option leads to the portability and security of Java?",
+        "optionA": "The applet makes the Java code secure and portable",
+        "optionB": "Bytecode is executed by JVM",
+        "optionC": "Use of exception handling",
+        "optionD": "Dynamic binding between objects",
+        "answer": "Bytecode is executed by JVM"
+    },
+    {
+        "question": "What data structure can be used to check if a syntax has balanced paranthesis ?",
+        "optionA": "Queue",
+        "optionB": "Tree",
+        "optionC": "List",
+        "optionD": "Stack",
+        "answer": "Stack"
+    },
+    {
+        "question": "What is the size of float variable?",
+        "optionA": "8 bit",
+        "optionB": "16 bit",
+        "optionC": "32 bit",
+        "optionD": "64 bit",
+        "answer": "32 bit"
+    },
+    {
+        "question": "Which of the following function of Array object applies a function simultaneously against two values of the array (from right-to-left) as to reduce it to a single value?",
+        "optionA": "pop()",
+        "optionB": "push()",
+        "optionC": "reduce()",
+        "optionD": "reduceRight()",
+        "answer": "reduceRight()"
+    },
+    {
+        "question": "Which CSS property can be used with row to stack two elements row wise?",
+        "optionA": "Flex-direction",
+        "optionB": "Flex-dimension",
+        "optionC": "Flex-arrange",
+        "optionD": "Flex-stack",
+        "answer": "Flex-direction"
+    },
+    {
+        "question": "Which of the following is example of in-place algorithm?",
+        "optionA": "Bubble Sort",
+        "optionB": "Merge Sort",
+        "optionC": "Insertion Sort",
+        "optionD": "All of the above",
+        "answer": "Merge Sort"
+    },
+
+    {
+        "question": "What is Webpack?",
+        "optionA": "An example of Code Linter",
+        "optionB": "React native bundle handler",
+        "optionC": "A static module bundler for JavaScript applications",
+        "optionD": "None",
+        "answer": "A static module bundler for JavaScript applications"
+    },
+    {
+        "question": "Which among them is used to create an object?",
+        "optionA": "A method",
+        "optionB": "A constructor",
+        "optionC": "A function",
+        "optionD": "A class",
+        "answer": "A constructor"
+    },
+    {
+        "question": "ReactJS covers _________",
+        "optionA": "User Interface layer in an application",
+        "optionB": "Data layer in an application",
+        "optionC": "Both a and b",
+        "optionD": "None",
+        "answer": "User Interface layer in an application"
+    },
+    {
+        "question": "Name the error that doesn’t cause program to stop/end, but the output is not the desired result or is incorrect.",
+        "optionA": "Syntax error",
+        "optionB": "Logical error",
+        "optionC": "Runtime error",
+        "optionD": "All of the above",
+        "answer": "Logical error"
+    },
+    {
+        "question": "The correct order of mathematical operators in mathematics and computer programming,",
+        "optionA": "Addition, Subtraction, Multiplication, Division",
+        "optionB": "Division, Multiplication, Addition, Subtraction",
+        "optionC": "Multiplication, Addition, Division, Subtraction",
+        "optionD": "Mathematical operators can be done in any order",
+        "answer": "Division, Multiplication, Addition, Subtraction"
+    },
+    {
+        "question": "How are you?",
+        "optionA": "I am good",
+        "optionB": "I am bad",
+        "optionC": "I want to write some code",
+        "optionD": "I want to..",
+        "answer": "I want to write some code"
+    },
+    {
+        "question": "Which built-in method returns the length of the string?",
+        "optionA": "length()",
+        "optionB": "size()",
+        "optionC": "index()",
+        "optionD": "None of the above.",
+        "answer": "length()"
+    },
+    {
+        "question": "What is Tkinter?",
+        "optionA": "Python Array Library",
+        "optionB": "Python GUI toolkit",
+        "optionC": "Machine Learning Algorithm",
+        "optionD": "None of the above.",
+        "answer": "Python GUI toolkit"
+    },
+    {
+        "question": "Which of the following is a founder of Android?",
+        "optionA": "Steve Wozniak",
+        "optionB": "Sundar Pichai",
+        "optionC": "Racheal Miner",
+        "optionD": "Andy Rubin",
+        "answer": "Andy Rubin"
+    },
+    {
+        "question": "What is a Hashmap?",
+        "optionA": "Java Google Maps extension",
+        "optionB": "Map based collection class that is used for storing Key and value pairs",
+        "optionC": "Python mapping function",
+        "optionD": "A data structure in Python",
+        "answer": "Map based collection class that is used for storing Key and value pairs"
+    },
+    {
+        "question": "Where do you remove a program from your computer?",
+        "optionA": "BIOS",
+        "optionB": "Control Panel",
+        "optionC": "Disk Defragmenter",
+        "optionD": "Control Section",
+        "answer": "Control Panel"
+    },
+    {
+        "question": "What does ASCII stands for?",
+        "optionA": "American Standard Code for Information Interchange",
+        "optionB": "I don't know",
+        "optionC": "American Standard Circuit for Information Interchange",
+        "optionD": "All Standard Code for Internet Interchange",
+        "answer": "American Standard Code for Information Interchange"
+    },
+    {
+        "question": "FunctionName = () => {}, What does this denotes?",
+        "optionA": "Java function",
+        "optionB": "Ardino Circuit function",
+        "optionC": "Arrow class in JavaScript",
+        "optionD": "Arrow function in JavaScript",
+        "answer": "Arrow function in JavaScript"
+    },
+    {
+        "question": "Which of the following is an advantage of adjacency list representation over adjacency matrix representation of a graph?",
+        "optionA": "In adjacency list representation, space is saved for sparse graphs.",
+        "optionB": "DFS and BSF can be done in O(V + E) time for adjacency list representation. These operations take O(V^2) time in adjacency matrix representation. Here is V and E are number of vertices and edges respectively.",
+        "optionC": "Adding a vertex in adjacency list representation is easier than adjacency matrix representation.",
+        "optionD": "All of the above",
+        "answer": "All of the above"
+    },
+    {
+        "question": "Choose the correct option",
+        "optionA": "Ternary Operators are not supported in JavaScript",
+        "optionB": "AES is a Machine Learning Algorithm",
+        "optionC": "There are no suitable job for an IT engineer in Banks",
+        "optionD": "The term 'Honey' is related to Cybersecurity",
+        "answer": "The term 'Honey' is related to Cybersecurity"
+    },
+    {
+        "question": "Data Science requires following skills",
+        "optionA": "Mathematics",
+        "optionB": "Science",
+        "optionC": "Sanskrit",
+        "optionD": "A and B both",
+        "answer": "A and B both"
+    },
+    {
+        "question": "Which of the following is not a data structure but can be treated as one..",
+        "optionA": "Map",
+        "optionB": "Integer",
+        "optionC": "JSON",
+        "optionD": "String",
+        "answer": "JSON"
+    }
+
+
+    
+    
+
+]
